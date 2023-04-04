@@ -19,6 +19,10 @@ A typical CNN consists of 3 parts: from [How do Convolutional Neural Networks wo
 * pooling layer
 + fully connected layer
 
+| convolutional layer| pooling layer | fully connected layer |
+| --- | --- | --- |
+| |average pooling | |
+| | max pooling |  |
 
 
 <img width="360" alt="图片1" src="https://user-images.githubusercontent.com/129284280/229670753-705a9bbb-ca52-4d28-b210-52681796990b.png">
